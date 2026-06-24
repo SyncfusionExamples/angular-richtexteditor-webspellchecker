@@ -1,6 +1,6 @@
 # Angular Rich Text Editor — Web Spell Checker Sample
 
-This repository is a minimal Angular sample showing integration of Web Spell Checker with the EJ2 Angular Rich Text Editor.
+This repository is a minimal Angular sample showing integration of Web Spell Checker with the EJ2 [Angular Rich Text Editor](https://www.syncfusion.com/angular-components/angular-rich-text-editor).
 
 ## Quick start
 
